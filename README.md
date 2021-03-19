@@ -1,2 +1,2 @@
 # DSeminario
-Repositorio ejemplo para el seminario
+Esta rama es diferente
